@@ -1,0 +1,4 @@
+pandas
+streamlit-elements
+streamlit-extras
+streamlit-aggrid
